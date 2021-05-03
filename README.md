@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maldayne
 /n/n
-Welcome to my repository. 
-I hope to be posting some interesting projects here as I continue to learn and expand my coding abilities. 
-Hopefully some of these will be interesting to others too.
+- Welcome to my repository. 
+- I hope to be posting some interesting projects here as I continue to learn and expand my coding abilities. 
+- Hopefully some of these will be interesting to others too.
 /n/n
 
 <!---
